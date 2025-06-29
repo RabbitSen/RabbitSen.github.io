@@ -1,0 +1,7 @@
+# config.toml
+baseURL = 'https://RabbitSen.github.io'
+languageCode = 'zh-cn'
+title = 'My New Hugo Site'
+
+# mySite
+theme = 'github-style' # 主题名
