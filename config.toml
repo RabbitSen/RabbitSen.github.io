@@ -1,5 +1,5 @@
 # config.toml
-baseURL = 'https://RabbitSen.github.io'
+baseURL = 'https://rabbitsen.github.io/'
 languageCode = 'zh-cn'
 title = 'My New Hugo Site'
 
