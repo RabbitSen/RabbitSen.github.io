@@ -1,5 +1,19 @@
-# .gitignore
-content/
-static/
-themes/
+# 忽略 Hugo 自动生成的 public 目录
+/public/
+
+# Hugo 的构建缓存
+resources/_gen/
+
+# 系统 & 编辑器临时文件
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# Hugo 生成的可执行文件（Windows 用户）
+hugo.exe
 
