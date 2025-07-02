@@ -4,5 +4,10 @@ languageCode = 'zh-cn'
 title = 'My New Hugo Site'
 
 # mySite
-theme = 'github-style' # 主题名
+theme = 'blowfish' # 主题名
 
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts"
+    weight = 1
